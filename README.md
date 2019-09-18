@@ -1,3 +1,7 @@
+PULP RI5CY variant.
+
+This fork adds a directory for the PULP RI5CY core. It is run as a Verilator
+cycle accurate simulation using a piped GDB server.
 
 # Introduction
 
